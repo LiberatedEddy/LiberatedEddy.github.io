@@ -23,21 +23,9 @@
     "download_cv_btn": "Download CV"
   },
   "skills": [
-    "SQL",
-    "Advanced Excel",
-    "Data Modeling",
-    "Data Cleaning and Auditing",
-    "Data Analysis",
-    "Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn)",
-    "Analytics & Statistics: Inferential Statistics, Hypothesis Testing",
-    "Machine Learning",
-    "ETL",
-    "Problem Solving",
-    "Data Presentation",
-    "Teamwork",
-    "Adaptability",
-    "Curiosity",
-    "Discipline"
+    "SQL", "Advanced Excel", "Data Modeling", "Data Cleaning and Auditing", "Data Analysis", "Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn)",
+    "Analytics & Statistics: Inferential Statistics, Hypothesis Testing", "Machine Learning", "ETL", 
+    "Problem Solving", "Data Presentation", "Teamwork",  "Adaptability", "Curiosity", "Discipline"
   ],
   "experience": [
     {
@@ -48,7 +36,8 @@
     "Led a team responsible for the qualification of critical systems in a laboratory construction project, reporting progress through an Excel dataset automated using Python with Pandas, NumPy, and Matplotlib.",
     "Streamlined tracking and documentation procedures for laboratory test results using an Excel dataset with macros and pivot tables.",
     "Tracked and recorded results from two computer systems used for production process automation."
-  ]
+  ],
+  "highlight": null
 },
     {
   "title": "Quality Lead",
@@ -57,7 +46,8 @@
   "description": [
     "Recorded and tracked raw material data using an Excel dataset automated with Python and the Pandas, NumPy, and Matplotlib libraries.",
     "Developed sales forecasts based on dataset analysis using Python with libraries such as Pandas, NumPy, Matplotlib, and SciPy to support purchasing and inventory decision-making."
-  ]
+  ],
+  "highlight": null
 }
   ],
   "projects": [

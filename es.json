@@ -1,16 +1,19 @@
 {
   "main": {
-    "page_title": "Portafolio | Angel Sandoval",
-    "your_name_header": "Angel Sandoval",
+    "page_title": "Portafolio | Eduardo Perez",
+    "your_name_header": "Eduardo Perez",
     "nav_about": "Sobre mí",
     "nav_experience": "Experiencia",
     "nav_projects": "Proyectos",
     "nav_contact": "Contacto",
-    "hero_title": "Hola, soy Angel Sandoval",
-    "hero_subtitle": "Analista de Datos",
+    "hero_title": "Hola, soy Eduardo Perez",
+    "hero_subtitle": "Cientifico de Datos",
     "contact_me_btn": "Contáctame",
     "about_title": "Sobre mí",
-    "about_p": "Analista de datos con experiencia en logística, RRHH y el sector restaurantero. Ingeniero en sistemas computacionales apasionado por el análisis de datos y presentación de información. Soy creativo, curioso, disciplinado, adaptable y destaco en la resolución de problemas. Busco integrarme a un equipo orientado a resultados.",
+    "about_p": "Data Scientist en formación con habilidades en Python, SQL y análisis estadístico. 
+Experiencia aplicando librerías como Pandas y Scikit-learn para el análisis exploratorio, modelado y 
+automatización de flujos de datos en entornos industriales, buscando transformar datos complejos en 
+modelos e insights accionables.",
     "skills_title": "Habilidades",
     "experience_title": "Experiencia Profesional",
     "projects_title": "Proyectos Destacados",
@@ -19,79 +22,50 @@
     "contact_title": "Hablemos",
     "contact_p": "Estoy abierto a nuevas oportunidades y colaboraciones. Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme.",
     "send_email_btn": "Enviar un correo",
-    "footer_text": "2025 Angel Sandoval.",
+    "footer_text": "2026 Eduardo Perez.",
     "download_cv_btn": "Descargar CV"
   },
   "skills": [
-    "Power BI", "DAX", "SQL", "Excel Avanzado", "Power Query", "Modelado de datos", "RLS", 
-    "Limpieza y auditoría de datos", "Análisis de datos", "Python", "Estadística Descriptiva", 
-    "Storytelling de Datos", "ETL", "Market Basket Analysis", "Resolución de problemas", 
+    "SQL", "Excel Avanzado", "Modelado de datos", 
+    "Limpieza y auditoría de datos", "Análisis de datos", "Python(Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn)", "Análisis & Estadística: Estadística inferencial, Pruebas de 
+hipótesis", 
+    "Machine Learning", "ETL", "Resolución de problemas", 
     "Presentación de información", "Trabajo en equipo", "Adaptabilidad", "Curiosidad", "Disciplina"
   ],
   "experience": [
     {
-      "title": "Power BI Developer",
-      "company": "Quark Intel, CDMX",
-      "date": "FEB 2024 - ACTUALIDAD",
+      "title": "Líder de validaciones",
+      "company": "Procter and gamble (P&G)",
+      "date": "ABR 2023 - OCT 2025",
       "description": [
-        "Diseño, desarrollo e implementación de dashboards interactivos en Power BI enfocados en el análisis del sector restaurantero (ventas, costos, menús, clientes, eficiencia operativa).",
-        "Creación de reportes y visualizaciones personalizadas para distintos niveles de usuario (gerentes, cocina, directores, dueños).",
-        "Realización de análisis de calidad de datos para identificar, documentar y reportar inconsistencias al cliente.",
-        "Administración de la plataforma Power BI, incluyendo gestión de accesos, control de versiones y actualización de datasets."
+        "Lidere un equipo para la calificación de sistemas críticos de un proyecto de construcción de un 
+laboratorio, y reporte el seguimiento mediante un dataset en excel programado mediante Python con 
+ayuda de las librerías de pandas, numpy y matplotlib.",
+        "Agilice los procedimientos de seguimiento y registro de los resultados de pruebas de laboratorio 
+mediante un dataset en Excel utilizando una macro y tablas dinámicas.",
+        "Di seguimiento y registro de resultados de dos sistemas de cómputo para la automatización de procesos 
+de producción.",
       ],
-      "highlight": "Se implementaron soluciones de BI que redujeron el tiempo para obtener reportes de 2 horas (manual) a menos de 2 minutos (consulta en Power BI)."
     },
     {
-      "title": "Analytics Associate",
-      "company": "Agile Thought, CDMX",
-      "date": "NOV 2022 - FEB 2024",
+      "title": " Líder de calidad",
+      "company": "Dirección de incubación de empresas tecnológicas (IPN)",
+      "date": "ENE 24 - ENE 25 ",
       "description": [
-        "Diseño y desarrollo de dashboards en Power BI para métricas de People (HC, Attrition, Engagement, Hires, etc.).",
-        "Auditorías de información para detectar y corregir errores en la captura de datos.",
-        "Implementación y gestión de Row-Level Security (RLS) para garantizar la confidencialidad de la información.",
-        "Generación de documentación detallada sobre procesos de análisis y seguridad."
+        "Registro de resultados y seguimiento de materia prima mediante un dataset trabajado en Excel 
+mediante Python con ayuda de las librerías de pandas, numpy y matplotlib. ",
+        "Elaboración de proyección de ventas basadas en el análisis del dataset mediante Python utilizando 
+librerías como pandas, numpy, matplotlib y scipy, apoyando la toma de decisiones en compras e 
+inventarios. "
       ],
-      "highlight": null
-    },
-    {
-      "title": "Analista de logística",
-      "company": "Grupo Juguetron, Tultitlán, México",
-      "date": "OCT 2020 - NOV 2022",
-      "description": [
-        "Implementación de KPI's operativos, logísticos y financieros.",
-        "Diseño y desarrollo de dashboards para visualizar datos del proceso logístico.",
-        "Mapeo y mejora de procesos operativos y administrativos.",
-        "Diseño, gestión y normalización de la estructura de datos del área.",
-        "Seguimiento a contratos de proveedores para asegurar la cadena de suministro."
-      ],
-      "highlight": null
-    }
   ],
   "projects": [
     {
-      "title": "Proyecto de Ejemplo 1",
+      "title": "Proyectos",
       "description": "Placeholder",
-      "image": "https://placehold.co/600x400/a5b4fc/1e293b?text=Proyecto+1",
-      "code_url": "#"
-    },
-    {
-      "title": "Proyecto de Ejemplo 2",
-      "description": "Placeholder",
-      "image": "https://placehold.co/600x400/818cf8/1e293b?text=Proyecto+2",
-      "code_url": "#"
-    },
-    {
-      "title": "Proyecto de Ejemplo 3",
-      "description": "Placeholder",
-      "image": "https://placehold.co/600x400/818cf8/1e293b?text=Proyecto+2",
-      "code_url": "#"
-    },
-    {
-      "title": "Proyecto de Ejemplo 4",
-      "description": "Placeholder",
-      "image": "https://placehold.co/600x400/818cf8/1e293b?text=Proyecto+2",
-      "code_url": "#"
-    }    
+      "image": "https://placehold.co/600x400/a5b4fc/1e293b?text=Proyectos",
+      "code_url": "https://github.com/LiberatedEddy/Portafolio.git"
+    }
   ]
 }
 

@@ -72,7 +72,7 @@ function initializePortfolio() {
             langIconEn.classList.toggle('hidden', lang === 'es');
 
             if(cvDownloadBtn) {
-                cvDownloadBtn.href = lang === 'es' ? './assets/docs/CV_Angel_Sandoval_ES.pdf' : './assets/docs/CV_Angel_Sandoval_EN.pdf';
+                cvDownloadBtn.href = lang === 'es' ? './assets/docs/E.Pérez CV.pdf' : './assets/docs/Eduardo_Perez_CV_EN.pdf';
             }
 
             skillsContainer.innerHTML = '';

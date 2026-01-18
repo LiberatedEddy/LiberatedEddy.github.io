@@ -1,16 +1,16 @@
 {
   "main": {
-    "page_title": "Portfolio | Angel Sandoval",
-    "your_name_header": "Angel Sandoval",
+    "page_title": "Portfolio | Eduardo Perez",
+    "your_name_header": "Eduardo Perez",
     "nav_about": "About",
     "nav_experience": "Experience",
     "nav_projects": "Projects",
     "nav_contact": "Contact",
-    "hero_title": "Hello, I'm Angel Sandoval",
-    "hero_subtitle": "Data Analyst",
+    "hero_title": "Hello, I'm Eduardo Perez",
+    "hero_subtitle": "Data Scientist",
     "contact_me_btn": "Contact Me",
     "about_title": "About Me",
-    "about_p": "Data analyst with experience in logistics, HR, and the restaurant industry. A computer systems engineer passionate about data analysis and information presentation. I am creative, curious, disciplined, adaptable, and excel at problem-solving. I am looking to join a results-oriented team.",
+    "about_p": "Data Scientist in training with skills in Python, SQL, and statistical analysis. Experience applying libraries such as Pandas and Scikit-learn for exploratory data analysis, modeling, and data pipeline automation in industrial environments, with a focus on transforming complex data into actionable models and insights.",
     "skills_title": "Skills",
     "experience_title": "Professional Experience",
     "projects_title": "Featured Projects",
@@ -19,78 +19,53 @@
     "contact_title": "Let's Talk",
     "contact_p": "I am open to new opportunities and collaborations. If you have any questions or simply want to say hello, do not hesitate to contact me.",
     "send_email_btn": "Send an Email",
-    "footer_text": "2025 Angel Sandoval.",
+    "footer_text": "2026 Eduardo Perez",
     "download_cv_btn": "Download CV"
   },
   "skills": [
-    "Power BI", "DAX", "SQL", "Advanced Excel", "Power Query", "Data Modelling", "RLS", 
-    "Data Cleansing & Auditing", "Data Analysis", "Python", "Descriptive Statistics", 
-    "Data Storytelling", "ETL", "Market Basket Analysis", "Problem Solving", 
-    "Information Presentation", "Teamwork", "Adaptability", "Curiosity", "Discipline"
+    "SQL",
+"Advanced Excel",
+"Data Modeling",
+"Data Cleaning and Auditing",
+"Data Analysis",
+"Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn)",
+"Analytics & Statistics: Inferential Statistics, Hypothesis Testing",
+"Machine Learning",
+"ETL",
+"Problem Solving",
+"Data Presentation",
+"Teamwork",
+"Adaptability",
+"Curiosity",
+"Discipline"
   ],
   "experience": [
     {
-      "title": "Power BI Developer",
-      "company": "Quark Intel, Mexico City",
-      "date": "FEB 2024 - PRESENT",
-      "description": [
-        "Designing, developing, and implementing interactive dashboards in Power BI focused on analysing the restaurant sector (sales, costs, menus, customers, operational efficiency).",
-        "Creating custom reports and visualisations for different user levels (branch managers, kitchen staff, operations directors, owners).",
-        "Performing data quality analysis to identify, document, and report inconsistencies to the client.",
-        "Administering the Power BI platform, including managing user access, version control, and dataset updates."
-      ],
-      "highlight": "Implemented BI solutions that reduced the time to obtain reports from 2 hours (manual) to less than 2 minutes (query in Power BI)."
-    },
+  "title": "Validation Lead",
+  "company": "Procter & Gamble (P&G)",
+  "date": "APR 2023 - OCT 2025",
+  "description": [
+    "Led a team responsible for the qualification of critical systems in a laboratory construction project, reporting progress through an Excel dataset automated using Python with Pandas, NumPy, and Matplotlib.",
+    "Streamlined tracking and documentation procedures for laboratory test results using an Excel dataset with macros and pivot tables.",
+    "Tracked and recorded results from two computer systems used for production process automation."
+  ]
+},
     {
-      "title": "Analytics Associate",
-      "company": "Agile Thought, Mexico City",
-      "date": "NOV 2022 - FEB 2024",
-      "description": [
-        "Designed and developed dashboards in Power BI for People metrics (HC, Attrition, Engagement, Hires, etc.).",
-        "Conducted information audits to detect and correct errors in data capture.",
-        "Implemented and managed Row-Level Security (RLS) to ensure information confidentiality.",
-        "Generated detailed documentation on data analysis and security processes."
-      ],
-      "highlight": null
-    },
-    {
-      "title": "Logistics Analyst",
-      "company": "Grupo Juguetron, Tultitlán, Mexico",
-      "date": "OCT 2020 - NOV 2022",
-      "description": [
-        "Implemented operational, logistical, and financial KPIs.",
-        "Designed and developed dashboards to visualise logistics process data.",
-        "Mapped and improved operational and administrative processes.",
-        "Designed, managed, and normalised the area's data structure.",
-        "Monitored supplier contracts to ensure the supply chain."
-      ],
-      "highlight": null
-    }
+  "title": "Quality Lead",
+  "company": "Technology Business Incubation Office (IPN)",
+  "date": "JAN 2024 - JAN 2025",
+  "description": [
+    "Recorded and tracked raw material data using an Excel dataset automated with Python and the Pandas, NumPy, and Matplotlib libraries.",
+    "Developed sales forecasts based on dataset analysis using Python with libraries such as Pandas, NumPy, Matplotlib, and SciPy to support purchasing and inventory decision-making."
+  ]
+},
   ],
   "projects": [
     {
-      "title": "Sample Project 1",
+      "title": "Sample Projects",
       "description": "Placeholder",
-      "image": "https://placehold.co/600x400/a5b4fc/1e293b?text=Project+1",
-      "code_url": "#"
+      "image": "https://placehold.co/600x400/a5b4fc/1e293b?text=Projects",
+      "code_url": "https://github.com/LiberatedEddy/Portafolio.git"
     },
-    {
-      "title": "Sample Project 2",
-      "description": "Placeholder",
-      "image": "https://placehold.co/600x400/818cf8/1e293b?text=Project+2",
-      "code_url": "#"
-    },
-    {
-      "title": "Sample Project 3",
-      "description": "Placeholder",
-      "image": "https://placehold.co/600x400/a5b4fc/1e293b?text=Project+1",
-      "code_url": "#"
-    },
-    {
-      "title": "Sample Project 4",
-      "description": "Placeholder",
-      "image": "https://placehold.co/600x400/818cf8/1e293b?text=Project+2",
-      "code_url": "#"
-    }
   ]
 }

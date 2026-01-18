@@ -10,10 +10,7 @@
     "hero_subtitle": "Cientifico de Datos",
     "contact_me_btn": "Contáctame",
     "about_title": "Sobre mí",
-    "about_p": "Data Scientist en formación con habilidades en Python, SQL y análisis estadístico. 
-Experiencia aplicando librerías como Pandas y Scikit-learn para el análisis exploratorio, modelado y 
-automatización de flujos de datos en entornos industriales, buscando transformar datos complejos en 
-modelos e insights accionables.",
+    "about_p": "Data Scientist en formación con habilidades en Python, SQL y análisis estadístico. Experiencia aplicando librerías como Pandas y Scikit-learn para el análisis exploratorio, modelado y automatización de flujos de datos en entornos industriales, buscando transformar datos complejos en modelos e insights accionables.",
     "skills_title": "Habilidades",
     "experience_title": "Experiencia Profesional",
     "projects_title": "Proyectos Destacados",
@@ -26,11 +23,7 @@ modelos e insights accionables.",
     "download_cv_btn": "Descargar CV"
   },
   "skills": [
-    "SQL", "Excel Avanzado", "Modelado de datos", 
-    "Limpieza y auditoría de datos", "Análisis de datos", "Python(Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn)", "Análisis & Estadística: Estadística inferencial, Pruebas de 
-hipótesis", 
-    "Machine Learning", "ETL", "Resolución de problemas", 
-    "Presentación de información", "Trabajo en equipo", "Adaptabilidad", "Curiosidad", "Disciplina"
+    "SQL", "Excel Avanzado", "Modelado de datos", "Limpieza y auditoría de datos", "Análisis de datos", "Python(Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn)", "Análisis & Estadística: Estadística inferencial, Pruebas de hipótesis", "Machine Learning", "ETL", "Resolución de problemas", "Presentación de información", "Trabajo en equipo", "Adaptabilidad", "Curiosidad", "Disciplina"
   ],
   "experience": [
     {
@@ -38,26 +31,17 @@ hipótesis",
       "company": "Procter and gamble (P&G)",
       "date": "ABR 2023 - OCT 2025",
       "description": [
-        "Lidere un equipo para la calificación de sistemas críticos de un proyecto de construcción de un 
-laboratorio, y reporte el seguimiento mediante un dataset en excel programado mediante Python con 
-ayuda de las librerías de pandas, numpy y matplotlib.",
-        "Agilice los procedimientos de seguimiento y registro de los resultados de pruebas de laboratorio 
-mediante un dataset en Excel utilizando una macro y tablas dinámicas.",
-        "Di seguimiento y registro de resultados de dos sistemas de cómputo para la automatización de procesos 
-de producción.",
-      ],
+        "Lidere un equipo para la calificación de sistemas críticos de un proyecto de construcción de un laboratorio, y reporte el seguimiento mediante un dataset en excel programado mediante Python con ayuda de las librerías de pandas, numpy y matplotlib.", "Agilice los procedimientos de seguimiento y registro de los resultados de pruebas de laboratorio mediante un dataset en Excel utilizando una macro y tablas dinámicas.", "Di seguimiento y registro de resultados de dos sistemas de cómputo para la automatización de procesos de producción."
+      ]
     },
     {
       "title": " Líder de calidad",
       "company": "Dirección de incubación de empresas tecnológicas (IPN)",
       "date": "ENE 24 - ENE 25 ",
       "description": [
-        "Registro de resultados y seguimiento de materia prima mediante un dataset trabajado en Excel 
-mediante Python con ayuda de las librerías de pandas, numpy y matplotlib. ",
-        "Elaboración de proyección de ventas basadas en el análisis del dataset mediante Python utilizando 
-librerías como pandas, numpy, matplotlib y scipy, apoyando la toma de decisiones en compras e 
-inventarios. "
-      ],
+        "Registro de resultados y seguimiento de materia prima mediante un dataset trabajado en Excel mediante Python con ayuda de las librerías de pandas, numpy y matplotlib. ", "Elaboración de proyección de ventas basadas en el análisis del dataset mediante Python utilizando librerías como pandas, numpy, matplotlib y scipy, apoyando la toma de decisiones en compras e inventarios."
+      ]
+    }
   ],
   "projects": [
     {

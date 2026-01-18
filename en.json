@@ -24,20 +24,20 @@
   },
   "skills": [
     "SQL",
-"Advanced Excel",
-"Data Modeling",
-"Data Cleaning and Auditing",
-"Data Analysis",
-"Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn)",
-"Analytics & Statistics: Inferential Statistics, Hypothesis Testing",
-"Machine Learning",
-"ETL",
-"Problem Solving",
-"Data Presentation",
-"Teamwork",
-"Adaptability",
-"Curiosity",
-"Discipline"
+    "Advanced Excel",
+    "Data Modeling",
+    "Data Cleaning and Auditing",
+    "Data Analysis",
+    "Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn)",
+    "Analytics & Statistics: Inferential Statistics, Hypothesis Testing",
+    "Machine Learning",
+    "ETL",
+    "Problem Solving",
+    "Data Presentation",
+    "Teamwork",
+    "Adaptability",
+    "Curiosity",
+    "Discipline"
   ],
   "experience": [
     {
@@ -58,7 +58,7 @@
     "Recorded and tracked raw material data using an Excel dataset automated with Python and the Pandas, NumPy, and Matplotlib libraries.",
     "Developed sales forecasts based on dataset analysis using Python with libraries such as Pandas, NumPy, Matplotlib, and SciPy to support purchasing and inventory decision-making."
   ]
-},
+}
   ],
   "projects": [
     {
@@ -66,6 +66,6 @@
       "description": "Placeholder",
       "image": "https://placehold.co/600x400/a5b4fc/1e293b?text=Projects",
       "code_url": "https://github.com/LiberatedEddy/Portafolio.git"
-    },
+    }
   ]
 }
